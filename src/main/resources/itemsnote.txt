@@ -1,0 +1,2 @@
+Itemcode	itemname	100.00
+Item1001	item1002	75.00
